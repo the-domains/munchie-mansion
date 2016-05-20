@@ -1,0 +1,28 @@
+name: Munchie Mansion
+favicon: null
+layout_spectrum: 0.10473776771686971
+typography_spectrum: 0.6425948161631823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.987524563446641
+  lightness: 0.1319210953079164
+  saturation: 0.649224866880104
+  rhythmicContrast: 0.39532634196802974
+purpose: []
