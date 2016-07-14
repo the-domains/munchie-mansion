@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Munchie Mansion]]></title>
         <description><![CDATA[Munchie Mansion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/munchie-mansion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 13:33:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 22:10:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/munchie-mansion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Munchie Mansion Test]]></title>
+            <description><![CDATA[<p>Munchie Mansion</p>]]></description>
+            <link>https://thegrid.ai/munchie-mansion/munchie-mansion-test/index.html</link>
+            <guid isPermaLink="false">0b495be9-8da2-442e-a70a-c0e5e42d11bf</guid>
+            <pubDate>Thu, 14 Jul 2016 22:10:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Behold, the Mansion]]></title>
             <description><![CDATA[<article><h1>Behold, the Mansion</h1><p>Munchie Mansion is where awesome happens. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a11c39a-ef2a-423c-8623-6dcac7a0e8f4.png"></article>]]></description>
-            <link>undefinedbehold-the-mansion/index.html</link>
+            <link>https://thegrid.ai/munchie-mansion/behold-the-mansion/index.html</link>
             <guid isPermaLink="false">984a64d2-8a3b-4301-8742-0552d111fd58</guid>
             <pubDate>Fri, 20 May 2016 13:33:43 GMT</pubDate>
         </item>
